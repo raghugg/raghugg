@@ -66,10 +66,6 @@
 
 ---
 
-
-
----
-
 <p align="center">
   <i>Open to SWE roles — DC/Baltimore area & remote</i>
 </p>
