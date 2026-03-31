@@ -66,22 +66,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=raghugg&hide_border=true" width="55%"/>
-</p>
-
-## 🔢 By the Numbers
-
-| | |
-|---|---|
-| 🏛️ National lab internships | 2 (Argonne DOE-SULI + GMU MEGL) |
-| ⚡ Max speedup achieved | ~60× (Parallel Tempering on HPC) |
-| 🔬 Benchmark circuits validated | 32+ |
-| 🎤 Conferences presented at | 1 (JMM 2025, Seattle) |
-| 🏗️ Hackathons shipped | 1 (48-hour, full-stack, live app) |
-| 🎓 GPA | 3.82 / 4.00 |
 
 ---
 
