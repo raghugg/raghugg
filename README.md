@@ -46,7 +46,7 @@
 |-------|------|--------|
 | Argonne National Lab (DOE-SULI) | Pauli-Propagation quantum simulator (C++ & Python) | <1e-9 error vs Qiskit reference |
 | GMU MEGL Lab | Parallel Tempering for logic circuit synthesis | ~60× speedup on HPC cluster |
-| JMM 2025 (Seattle) | Presented stochastic & quantum algorithms research | GMU-funded ($1,200 grant) |
+| JMM 2025 (Seattle) | Presented stochastic algorithms research | GMU-funded ($1,200 grant) |
 
 ---
 
