@@ -65,7 +65,7 @@
 `C` `Concurrency` `Systems Programming`
 > Syscalls (fork, exec, waitpid), threading, memory management, synchronization primitives — source available on request
 
-### Planetary Exploration — Browser Clicker Game
+### [Planetary Exploration](https://github.com/raghugg/earth-destroyer) — Browser Clicker Game
 `HTML` `JavaScript` `CSS`
 > Led 4-person team · incremental game with item shop and planet progression
 
