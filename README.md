@@ -20,6 +20,7 @@
 
 **Frameworks & Tools**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-gray?style=flat)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=ibm&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -46,11 +47,15 @@
 |-------|------|--------|
 | Argonne National Lab (DOE-SULI) | Pauli-Propagation quantum simulator (C++ & Python) | <1e-9 error vs Qiskit reference |
 | GMU MEGL Lab | Parallel Tempering for logic circuit synthesis | ~60× speedup on HPC cluster |
-| JMM 2025 (Seattle) | Presented stochastic algorithms research | GMU-funded ($1,200 grant) |
+| JMM 2025 (Seattle) | Presented stochastic & quantum algorithms research | GMU-funded ($1,200 grant) |
 
 ---
 
 ## 🚀 Featured Projects
+
+### [Distributed Load Balancer](https://github.com/raghugg/Java-UDP-LoadBalancer) — Multi-Worker Reverse Proxy
+`Java` `Docker` `TCP/UDP` `Networking`
+> Round-robin reverse proxy with UDP heartbeat control plane, circuit breaker, and Docker Compose deployment across virtual networks
 
 ### [Job Hunter](https://jobhunters.app) — AI Resume & Job Search App
 `React` `Vite` `Cloudflare Workers` `Gemini API`
