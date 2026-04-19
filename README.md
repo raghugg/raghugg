@@ -1,6 +1,6 @@
 # Hey, I'm Raghu 👋
 
-> CS grad · HPC & quantum computing researcher · software engineer
+> CS grad · software engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavendra-guggilam)
 [![Portfolio](https://img.shields.io/badge/jobhunters.app-000?style=flat&logo=vercel&logoColor=white)](https://jobhunters.app)
@@ -51,45 +51,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### [Distributed Load Balancer](https://github.com/raghugg/Java-UDP-LoadBalancer) — Multi-Worker Reverse Proxy
-`Java` `Docker` `TCP/UDP` `Networking`
-> Round-robin reverse proxy with UDP heartbeat control plane, circuit breaker, and Docker Compose deployment across virtual networks
-
-### [Job Hunter](https://jobhunters.app) — AI Resume & Job Search App
-`React` `Vite` `Cloudflare Workers` `Gemini API`
-> 48-hour hackathon · Full-stack AI resume analyzer · ATS gap detection · automated resume generation
-
-### OS/161 — Operating System from Scratch
-`C` `Concurrency` `Systems Programming`
-> Syscalls (fork, exec, waitpid), threading, memory management, synchronization primitives — source available on request
-
-### [Planetary Exploration](https://github.com/raghugg/earth-destroyer) — Browser Clicker Game
-`HTML` `JavaScript` `CSS`
-> Led 4-person team · incremental game with item shop and planet progression
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghugg&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=raghugg&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghugg&layout=compact&hide_border=true&langs_count=8" width="42%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghugg&hide_border=true&theme=minimal" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raghugg&no-frame=true&row=1&column=6" width="95%"/>
-</p>
-
----
   <i>Open to SWE roles — open to relocation or remote</i>
 </p>
