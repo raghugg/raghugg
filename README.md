@@ -71,6 +71,25 @@
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raghugg&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=raghugg&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghugg&layout=compact&hide_border=true&langs_count=8" width="42%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghugg&hide_border=true&theme=minimal" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=raghugg&no-frame=true&row=1&column=6" width="95%"/>
+</p>
+
+---
   <i>Open to SWE roles — open to relocation or remote</i>
 </p>
