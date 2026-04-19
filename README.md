@@ -41,6 +41,15 @@
 
 ---
 
+## 🌐 Live Demos
+
+| Project | Link |
+|---------|------|
+| Job Hunter — AI Resume & Job Search App | [jobhunters.app](https://jobhunters.app) |
+| Planetary Exploration — Browser Clicker Game | [raghugg.github.io/planetary-exploration](https://raghugg.github.io/planetary-exploration) |
+
+---
+
 ## 🔬 Research Highlights
 
 | Where | What | Impact |
